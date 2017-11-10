@@ -10,3 +10,7 @@
 * [Deep Neural Network - Application](https://feizhihui.github.io/deeplearning.ai/Deep%20Neural%20Network%20-%20Application%20v3.html)
 
 ---
+### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+**Programming Assigment About:**
+* [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/Initialization.html)
+---
