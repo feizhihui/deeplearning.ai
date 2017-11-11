@@ -13,4 +13,5 @@
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 **Programming Assigment About:**
 * [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/Initialization.html)
+* [Regularization.html](https://feizhihui.github.io/deeplearning.ai/Regularization.html)
 ---
