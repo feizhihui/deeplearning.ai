@@ -14,4 +14,5 @@
 **Programming Assigment About:**
 * [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/Initialization.html)
 * [Regularization](https://feizhihui.github.io/deeplearning.ai/Regularization.html)
+* [Gradient Checking](https://feizhihui.github.io/deeplearning.ai/Gradient%20Checking%20v1.html)
 ---
