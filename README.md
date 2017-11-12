@@ -15,5 +15,5 @@
 * [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/Initialization.html)
 * [Regularization](https://feizhihui.github.io/deeplearning.ai/Regularization.html)
 * [Gradient Checking](https://feizhihui.github.io/deeplearning.ai/Gradient%20Checking%20v1.html)
-* [Optimization methods](https://github.com/feizhihui/deeplearning.ai/Optimization%20methods.html)
+* [Optimization methods](https://feizhihui.github.io/deeplearning.ai/Optimization%20methods.html)
 ---
