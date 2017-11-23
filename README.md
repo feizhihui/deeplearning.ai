@@ -1,5 +1,6 @@
 # deeplearning.ai
 
+---
 ### Neural Networks and Deep Learning
 - [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/_Certificate/Neural%20Networks%20and%20Deep%20Learning.pdf)  
 
@@ -20,3 +21,6 @@
 * [Optimization methods](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.html)
 * [Tensorflow Tutorial](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.html)
 ---
+
+### Convolutional Neural Networks
+* [Convolution model - Step by Step](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.html)
