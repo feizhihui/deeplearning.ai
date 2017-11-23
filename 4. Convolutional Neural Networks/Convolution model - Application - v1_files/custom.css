@@ -1,0 +1,9 @@
+/* Hack to suppress certificate warning display on graphlab license call*/
+.output_stderr {
+    display: none;
+}
+
+/* Format for custom error modal message */
+.running-notebooks {
+    padding-top: 2em;
+}
