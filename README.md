@@ -1,8 +1,7 @@
 # deeplearning.ai
 
----
 ### Neural Networks and Deep Learning
-- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/_Certificate/Neural%20Networks%20and%20Deep%20Learning.pdf)  
+- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Neural%20Networks%20and%20Deep%20Learning.pdf)  
 
 **Programming Assigment About:**
 * [Logistic Regression with a Neural Network mindset](https://feizhihui.github.io/deeplearning.ai/1.%20Neural%20Networks%20and%20Deep%20Learning/1.%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v4-Copy1.html)
@@ -12,7 +11,7 @@
 
 ---
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/_Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
+- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
 
 **Programming Assigment About:**
 * [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.html)
