@@ -14,9 +14,9 @@
 - [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/_Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
 
 **Programming Assigment About:**
-* [Weight Initialization](2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.html)
+* [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.html)
 * [Regularization](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.html)
-* [Gradient Checking](2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.html)
+* [Gradient Checking](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking%20v1.html)
 * [Optimization methods](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.html)
 * [Tensorflow Tutorial](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.html)
 ---
