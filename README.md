@@ -25,3 +25,4 @@
 * [Convolution model - Step by Step](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.html)
 * [Convolution model - Application](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.html)
 * [Keras tutorial - the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.html)
+* [Residual Networks](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.html)
