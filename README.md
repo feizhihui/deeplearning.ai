@@ -21,6 +21,10 @@
 * [Tensorflow Tutorial](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.html)
 ---
 
+### Structuring Machine Learning Projects
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/PYD45H6TNW87)  
+---
+
 ### Convolutional Neural Networks
 - [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
 
