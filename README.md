@@ -27,3 +27,6 @@
 * [Keras tutorial - the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.html)
 * [Residual Networks](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.html)
 * [Autonomous driving application - Car detection](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.html)
+* [Art generation with Neural Style Transfer](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.html)
+
+Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.html
