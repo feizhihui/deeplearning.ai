@@ -1,7 +1,7 @@
 # deeplearning.ai
 
 ### Neural Networks and Deep Learning
-- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Neural%20Networks%20and%20Deep%20Learning.pdf)  
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/U59HHSB4WC9R)  
 
 **Programming Assigment About:**
 * [Logistic Regression with a Neural Network mindset](https://feizhihui.github.io/deeplearning.ai/1.%20Neural%20Networks%20and%20Deep%20Learning/1.%20Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v4-Copy1.html)
@@ -11,7 +11,7 @@
 
 ---
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/KG5R68ZBQPL2)  
 
 **Programming Assigment About:**
 * [Weight Initialization](https://feizhihui.github.io/deeplearning.ai/2.%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.html)
@@ -22,7 +22,7 @@
 ---
 
 ### Convolutional Neural Networks
-- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
 
 **Programming Assigment About:**
 * [Convolution model - Step by Step](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.html)
