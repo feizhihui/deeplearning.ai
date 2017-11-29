@@ -22,9 +22,13 @@
 ---
 
 ### Convolutional Neural Networks
+- [Certificate](https://github.com/feizhihui/deeplearning.ai/blob/master/Certificate/Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization.pdf)  
+
+**Programming Assigment About:**
 * [Convolution model - Step by Step](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v2.html)
 * [Convolution model - Application](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.html)
 * [Keras tutorial - the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.html)
 * [Residual Networks](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v2.html)
 * [Autonomous driving application - Car detection](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.html)
 * [Art generation with Neural Style Transfer](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.html)
+* [Face Recognition for the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.html)
