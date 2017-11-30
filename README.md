@@ -36,3 +36,4 @@
 * [Autonomous driving application - Car detection](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.html)
 * [Art generation with Neural Style Transfer](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.html)
 * [Face Recognition for the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.html)
+---
