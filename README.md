@@ -39,7 +39,7 @@
 ---  
  
 ### Sequence Models
-[^_^]: 
+[^_^]:
      - [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
 
 **Programming Assigment About:**
