@@ -38,3 +38,12 @@
 * [Face Recognition for the Happy House](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.html)
 ---  
  
+### Sequence Models
+[^_^] - [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
+
+**Programming Assigment About:**
+* [Building a recurrent neural network - step by step](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.html)
+* [Dinosaur Island - Character-Level Language Modeling](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.html)
+* [Jazz improvisation with LSTM](https://feizhihui.github.io/deeplearning.ai/4.%20Convolutional%20Neural%20Networks/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.html)
+---  
+ 
