@@ -39,7 +39,8 @@
 ---  
  
 ### Sequence Models
-[^_^]: - [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
+[^_^]: 
+     - [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  
 
 **Programming Assigment About:**
 * [Building a recurrent neural network - step by step](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.html)
