@@ -41,11 +41,13 @@
 ### Sequence Models
 
 
-[//]: #(- [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME)  )
+- [Certificate](https://www.coursera.org/account/accomplishments/certificate/294XLB6RX9ME) 
 
 **Programming Assigment About:**
 * [Building a recurrent neural network - step by step](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v3.html)
 * [Dinosaur Island - Character-Level Language Modeling](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.html)
 * [Jazz improvisation with LSTM](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.html)
+* [Operations on word vectors](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.html)
+* [Emojify](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Emojify%20-%20v2.html)
 ---  
  
