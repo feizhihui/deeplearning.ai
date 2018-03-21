@@ -49,5 +49,7 @@
 * [Jazz improvisation with LSTM](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.html)
 * [Operations on word vectors](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Operations%20on%20word%20vectors%20-%20v2.html)
 * [Emojify](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Emojify%20-%20v2.html)
+* [Neural machine translation with attention](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Neural%20machine%20translation%20with%20attention%20-%20v4.html)
+* [Trigger word detection](https://feizhihui.github.io/deeplearning.ai/5.%20Sequence%20Models/Trigger%20word%20detection%20-%20v1.html)
 ---  
  
